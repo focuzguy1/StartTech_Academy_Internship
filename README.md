@@ -1,1 +1,1 @@
-# StartTech_Academy_Internship
+# StartUp_Tech_Internship
