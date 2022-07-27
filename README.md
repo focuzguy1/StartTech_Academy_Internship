@@ -21,3 +21,11 @@ Column chart for historical revenue.
 Pie chart for expense breakup
 Main expenditure item Target vs achieved
 Create chats of other metrics you feel are important.
+
+MACHINE LEARNING TASK
+Your task is to help John from STA IT services to create a linear regression model in Python or R to predict the CTC/Salary of new hires from the data provided. Here is a snapshot of the case
+
+Understand the data
+Transform categorical variables to the numerical variables
+Apply linear regression to predict the CTC
+Evaluate the results of the analysis
